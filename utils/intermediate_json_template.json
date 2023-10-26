@@ -1,0 +1,24 @@
+{
+    "operationType": "create",
+    "pageCrop": {
+        "leafletId": "leafletId",
+        "page": 0,
+        "x1": 0, "y1": 0, "x2": 0, "y2": 0,
+        "PageCropItems": [
+            {
+                "itemId": "itemId",
+                "itemCrops": [],
+                "pageCropItemPrices": [
+
+                ],
+                "similarity": 0.3075715396819225
+            }
+        ],
+        "aiValidated": true,
+        "ocrJson": {
+            "textAnnotations": [
+
+            ]
+        }
+    }
+}

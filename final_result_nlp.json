@@ -1,0 +1,104 @@
+{
+    "leaflet_id": "62bf0ef695901c7d76b75f83",
+    "page": "1",
+    "leaflet_items": [
+        {
+            "item_id": "offer_0",
+            "product_id": "621013e14d99344e39fa6d9a",
+            "value": "39,90",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "offer_3",
+            "product_id": "57cdd32e78b5a528f426991e",
+            "value": "5,47",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "offer_4",
+            "product_id": "61648c3c8622c2099b341600",
+            "value": "8,99",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "offer_4",
+            "product_id": "61648c3c8622c2099b341600",
+            "value": "10,99",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "offer_4",
+            "product_id": "61e569aac36388272d2aede3",
+            "value": "8,99",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "offer_4",
+            "product_id": "61e569aac36388272d2aede3",
+            "value": "10,99",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "offer_7",
+            "product_id": "57d2c1d802c071433c383f48",
+            "value": "3,79",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "offer_8",
+            "product_id": "6265edb062f3c542ef2debbc",
+            "value": "7,90",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "offer_8",
+            "product_id": "6265edb062f3c542ef2debbc",
+            "value": "6,90",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "offer_10",
+            "product_id": "5ad092cce82b9a4e709c2e06",
+            "value": "4,99",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "offer_12",
+            "product_id": "6143932b7c5b565352e6318c",
+            "value": "3,89",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "offer_14",
+            "product_id": "6151cbf87732e97702a317ef",
+            "value": "1,79",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "offer_15",
+            "product_id": "60e4977b4edf9869529fa02d",
+            "value": "23,99",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        }
+    ],
+    "unidentified_leaflet_items_ids": [
+        "offer_1",
+        "offer_4",
+        "offer_8",
+        "offer_13",
+        "offer_19"
+    ]
+}
