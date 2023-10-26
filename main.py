@@ -3,14 +3,14 @@ import cv2
 
 
 
-# # PDI
-# from pipeline.PipelinePDI import PipelinePDI
-# pipelinePDI = PipelinePDI()
-# date, url_json, image = pipelinePDI.set_input('pdi_mocked.json')
-# #cv2.imwrite('noe.jpg', image)
-# results = pipelinePDI.detect_offers(url_json, image, date)
-# with open('final_results_pdi.json', 'w') as json_file:
-#     json.dump(results, json_file, indent=2)
+# PDI
+from pipeline.PipelinePDI import PipelinePDI
+pipelinePDI = PipelinePDI()
+date, url_json, image = pipelinePDI.set_input('pdi_mocked.json')
+#cv2.imwrite('noe.jpg', image)
+results = pipelinePDI.detect_offers(url_json, image, date)
+with open('final_results_pdi.json', 'w') as json_file:
+    json.dump(results, json_file, indent=2)
 
 
 
