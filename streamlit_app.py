@@ -1,5 +1,7 @@
 import json
 import cv2
+import gdown
+import os
 import streamlit as st
 from pipeline.PipelinePDI import PipelinePDI
 from pipeline.PipelineNLP import PipelineNLP
@@ -35,6 +37,24 @@ def update_mocked_json(url_image, date, mocked_json_file, overwrite=False):
     with open(mocked_json_file, 'w') as json_file:
         json.dump(data, json_file, indent=2)
 
+# =-=-=-=-=-=-=-=-=-=-=-
+
+message = st.empty()
+message.text("Esta mensagem desaparecerá após 5 segundos.")
+
+file_id = '1xyHv-3Nt-hfn_sMBxuc4k3GPl1ivA4nH'
+url = f'https://drive.google.com/uc?id={file_id}'
+destination = 'models/pdi/'
+os.makedirs(os.path.dirname(destination), exist_ok=True)
+
+# Variável de controle para verificar se o arquivo já foi baixado
+file_downloaded = os.path.exists(os.path.join(destination, 'recortes.pt'))
+
+if not file_downloaded:
+    gdown.download(url, destination, quiet=False)
+    file_downloaded = True
+
+message.text("")
 st.title("PDI + NLP")
 
 new_url_image = st.text_input("Nova URL da Imagem")
