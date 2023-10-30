@@ -37,8 +37,8 @@ def update_mocked_json(url_image, date, mocked_json_file, overwrite=False):
     with open(mocked_json_file, 'w') as json_file:
         json.dump(data, json_file, indent=2)
 
-# =-=-=-=-=-=-=-=-=-=-=-
 
+# =-=-=-=-=-=-=-=-=-=-=-
 message = st.empty()
 message.text("Esta mensagem desaparecerá após 5 segundos.")
 
@@ -47,7 +47,6 @@ url = f'https://drive.google.com/uc?id={file_id}'
 destination = 'models/pdi/'
 os.makedirs(os.path.dirname(destination), exist_ok=True)
 
-# Variável de controle para verificar se o arquivo já foi baixado
 file_downloaded = os.path.exists(os.path.join(destination, 'recortes.pt'))
 
 if not file_downloaded:
