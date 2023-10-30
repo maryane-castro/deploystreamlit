@@ -6,6 +6,7 @@ import streamlit as st
 from pipeline.PipelinePDI import PipelinePDI
 from pipeline.PipelineNLP import PipelineNLP
 
+@st.cache_resource
 def execute_pipeline(url_image, date):
     update_mocked_json(url_image, date, 'pdi_mocked.json', overwrite=True)
     
@@ -20,6 +21,7 @@ def execute_pipeline(url_image, date):
 
     pipelineNLP.run('intermediate_result_nlp.json', 'final_result_nlp.json')
 
+@st.cache_resource
 def update_mocked_json(url_image, date, mocked_json_file, overwrite=False):
     if not overwrite:
         with open(mocked_json_file, 'r') as json_file:
