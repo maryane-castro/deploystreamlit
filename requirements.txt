@@ -92,9 +92,9 @@ opencv-python-headless==4.8.1.78
 openpyxl==3.1.2
 opt-einsum==3.3.0
 packaging==23.2
-paddle-bfloat==0.1.7
-paddleocr==2.7.0.3
-paddlepaddle==2.5.1
+paddle-bfloat
+paddleocr
+paddlepaddle
 pandas==2.1.1
 pdf2docx==0.5.6
 Pillow==10.0.1
