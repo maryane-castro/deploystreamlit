@@ -1,4 +1,6 @@
 
 libssl-dev
 libgl1-mesa-glx
-libopenblas-dev libblas-dev liblapack-dev
+libopenblas-dev 
+libblas-dev 
+liblapack-dev
