@@ -145,7 +145,9 @@ def pipelinePDI(image_path, image_name, modelo_oferta=modelo_oferta, modelo_reco
             recorte["price"] = price_list
             recorte["dynamics"] = dynamics_list
 
-            cv2.rectangle(imagem_original, (x1, y1), (x2, y2), (0, 255, 0), 2)  # Caixa delimitadora
+            cv2.rectangle(imagem_original, (x1, y1), (x2, y2), (0, 255, 0), 2)
+            cv2.putText(imagem_original, name, (x1_adj, y1_adj - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+  # Caixa delimitadora
             
     with open('pdi_results.json', 'w', encoding='utf8') as json_file:
         json.dump(output_data, json_file, indent=3)
