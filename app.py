@@ -28,20 +28,15 @@ if not file_downloaded_recortes:
 file_id_NER = '121Q3hQRu4bNQH7zKoE6GLQ00jdQfBuXj'
 url = f'https://drive.google.com/uc?id={file_id_NER}'
 destination_NER = 'bd_utils/'
-
-# Verifica se o diretório de destino existe e cria se não existir
 os.makedirs(destination_NER, exist_ok=True)
 
 file_downloaded_NER = os.path.exists(os.path.join(destination_NER, 'model_ner'))
 
 if not file_downloaded_NER:
-    # Faz o download do arquivo
     gdown.download(url, os.path.join(destination_NER, 'model_ner'), quiet=False)
     file_downloaded_NER = True
 
-# Verifica se o arquivo foi baixado com sucesso
 if file_downloaded_NER:
-    # Verifica se o arquivo é um arquivo zip (ou outro formato compactado) e descompacta
     file_path = os.path.join(destination_NER, 'model_ner')
     if file_path.endswith('.zip'):
         with zipfile.ZipFile(file_path, 'r') as zip_ref:
