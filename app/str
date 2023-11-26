@@ -1,0 +1,18 @@
+file_id1 = '1xyHv-3Nt-hfn_sMBxuc4k3GPl1ivA4nH'
+url1 = f'https://drive.google.com/uc?id={file_id1}'
+destination1 = 'models/pdi/'
+os.makedirs(os.path.dirname(destination1), exist_ok=True)
+file_downloaded1 = os.path.exists(os.path.join(destination1, 'recortes.pt'))
+if not file_downloaded1:
+    gdown.download(url1, destination1, quiet=False)
+    file_downloaded1 = True
+
+
+file_id2 = '121Q3hQRu4bNQH7zKoE6GLQ00jdQfBuXj'
+url2 = f'https://drive.google.com/uc?id={file_id2}'
+destination2 = 'models/pdi/'
+os.makedirs(os.path.dirname(destination2), exist_ok=True)
+file_downloaded2 = os.path.exists(os.path.join(destination2, 'recortes.pt'))
+if not file_downloaded2:
+    gdown.download(url2, destination2, quiet=False)
+    file_downloade2 = True
