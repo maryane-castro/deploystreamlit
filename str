@@ -1,18 +1,20 @@
-file_id1 = '1xyHv-3Nt-hfn_sMBxuc4k3GPl1ivA4nH'
-url1 = f'https://drive.google.com/uc?id={file_id1}'
-destination1 = 'models/pdi/'
-os.makedirs(os.path.dirname(destination1), exist_ok=True)
-file_downloaded1 = os.path.exists(os.path.join(destination1, 'recortes.pt'))
-if not file_downloaded1:
-    gdown.download(url1, destination1, quiet=False)
-    file_downloaded1 = True
+import os
+import gdown
+import shutil
+import zipfile
 
+file_id_NER = '121Q3hQRu4bNQH7zKoE6GLQ00jdQfBuXj'
+url = f'https://drive.google.com/uc?id={file_id_NER}'
+destination_NER = 'bd_utils/'
+destination_model_ner = os.path.join(destination_NER, 'model_ner')
 
-file_id2 = '121Q3hQRu4bNQH7zKoE6GLQ00jdQfBuXj'
-url2 = f'https://drive.google.com/uc?id={file_id2}'
-destination2 = 'models/pdi/'
-os.makedirs(os.path.dirname(destination2), exist_ok=True)
-file_downloaded2 = os.path.exists(os.path.join(destination2, 'recortes.pt'))
-if not file_downloaded2:
-    gdown.download(url2, destination2, quiet=False)
-    file_downloade2 = True
+if not os.path.exists(destination_model_ner):
+    os.makedirs(destination_NER, exist_ok=True)
+    gdown.download(url, f'{destination_NER}model_ner.zip', quiet=False)
+
+    zip_path = os.path.join(destination_NER, 'model_ner.zip')
+    if os.path.exists(zip_path):
+        with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+            zip_ref.extractall(destination_NER)
+        os.remove(zip_path)
+        os.rename(os.path.join(destination_NER, 'model_ner'), destination_model_ner)

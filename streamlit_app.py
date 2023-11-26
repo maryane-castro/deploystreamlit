@@ -20,22 +20,23 @@ if not file_downloaded_recortes:
 
 #download model_ner
 
+
 file_id_NER = '121Q3hQRu4bNQH7zKoE6GLQ00jdQfBuXj'
 url = f'https://drive.google.com/uc?id={file_id_NER}'
 destination_NER = 'bd_utils/'
-os.makedirs(destination_NER, exist_ok=True)
+destination_model_ner = os.path.join(destination_NER, 'model_ner')
 
-file_downloaded_NER = os.path.exists(os.path.join(destination_NER, 'model_ner'))
+if not os.path.exists(destination_model_ner):
+    os.makedirs(destination_NER, exist_ok=True)
+    gdown.download(url, f'{destination_NER}model_ner.zip', quiet=False)
 
-if not file_downloaded_NER:
-    gdown.download(url, os.path.join(destination_NER, 'model_ner'), quiet=False)
-    file_downloaded_NER = True
-
-if file_downloaded_NER:
-    file_path = os.path.join(destination_NER, 'model_ner')
-    if file_path.endswith('.zip'):
-        with zipfile.ZipFile(file_path, 'r') as zip_ref:
+    zip_path = os.path.join(destination_NER, 'model_ner.zip')
+    if os.path.exists(zip_path):
+        with zipfile.ZipFile(zip_path, 'r') as zip_ref:
             zip_ref.extractall(destination_NER)
+        os.remove(zip_path)
+        os.rename(os.path.join(destination_NER, 'model_ner'), destination_model_ner)
+
 
 
 from pipelines import pipeline_pdi
