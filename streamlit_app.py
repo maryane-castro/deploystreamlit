@@ -4,9 +4,16 @@ import os
 import streamlit as st
 import numpy as np
 from PIL import Image
+import json
+
+
+def load_json(file_path):
+    with open(file_path, 'r') as file:
+        data = json.load(file)
+    return data
+
 
 #download recortes
-
 file_id_recortes = '1xyHv-3Nt-hfn_sMBxuc4k3GPl1ivA4nH'
 url = f'https://drive.google.com/uc?id={file_id_recortes}'
 destination_recortes = 'models/pdi/'
@@ -19,8 +26,6 @@ if not file_downloaded_recortes:
 
 
 #download model_ner
-
-
 file_id_NER = '121Q3hQRu4bNQH7zKoE6GLQ00jdQfBuXj'
 url = f'https://drive.google.com/uc?id={file_id_NER}'
 destination_NER = 'bd_utils/'
@@ -38,21 +43,11 @@ if not os.path.exists(destination_model_ner):
         os.rename(os.path.join(destination_NER, 'model_ner'), destination_model_ner)
 
 
-
 from pipelines import pipeline_pdi
 from pipelines.pipeline_nlp import PipelineNLP
 
 
-
-
-
-
-
-
-
-
 st.title('Macro Entrega 2 - Protótipo PDI e NLP')
-
 uploaded_image = st.file_uploader("Escolha uma imagem", type=["jpg", "png", "jpeg"])
 if uploaded_image is not None:
 
@@ -67,4 +62,11 @@ if uploaded_image is not None:
     pipelineNLP = PipelineNLP(ocr_threshold=0.3, similarity_threshold=0.6)
     pipelineNLP.set_input('pdi_results.json', image)
     resultados_pdi = pipelineNLP.run('intermediate_result.json', 'final_result.json')
+    st.text('RESULTADO INTERMEDIARIO')
+    data = load_json('intermediate_result.json')
+
+    # Mostra o conteúdo do arquivo JSON
+    st.json(data)
+
+    st.text('RESULTADO FINAL NLP')
     st.json(resultados_pdi)
