@@ -1,14 +1,9 @@
-from pipelines import pipeline_pdi
-from pipelines.pipeline_nlp import PipelineNLP
+import gdown
+import zipfile
+import os
 import streamlit as st
 import numpy as np
 from PIL import Image
-import os
-import gdown
-import zipfile
-
-
-
 
 #download recortes
 
@@ -42,6 +37,16 @@ if file_downloaded_NER:
         with zipfile.ZipFile(file_path, 'r') as zip_ref:
             zip_ref.extractall(destination_NER)
         os.remove(file_path) 
+
+
+from pipelines import pipeline_pdi
+from pipelines.pipeline_nlp import PipelineNLP
+
+
+
+
+
+
 
 
 
