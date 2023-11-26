@@ -62,11 +62,17 @@ if uploaded_image is not None:
     pipelineNLP = PipelineNLP(ocr_threshold=0.3, similarity_threshold=0.6)
     pipelineNLP.set_input('pdi_results.json', image)
     resultados_pdi = pipelineNLP.run('intermediate_result.json', 'final_result.json')
-    st.text('RESULTADO INTERMEDIARIO')
-    data = load_json('intermediate_result.json')
 
-    # Mostra o conteúdo do arquivo JSON
-    st.json(data)
+    
+    st.text('RESULTADO INTERMEDIARIO')
+    intermediate_data = load_json('intermediate_result.json')
+    for operation in intermediate_data:
+        ocr_data = operation.get('pageCrop', {}).get('ocrJson', {}).get('textAnnotations', [])
+        for annotation in ocr_data:
+            description = annotation.get('description')
+            if description:
+                st.write(f"Produto Detectado: {description}")
+
 
     st.text('RESULTADO FINAL NLP')
     st.json(resultados_pdi)
