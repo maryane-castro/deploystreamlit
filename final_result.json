@@ -1,30 +1,35 @@
 {
-    "leaflet_id": "6e302fa38b95a2369",
+    "leaflet_id": "oi",
     "page": "page1",
-    "leaflet_items": [],
+    "leaflet_items": [
+        {
+            "item_id": "Oferta0",
+            "product_id": "56a76b58275ddd3c1663b31a",
+            "value": "2,99",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "Oferta4",
+            "product_id": "63a9cf0b76581d48c1172749",
+            "value": "3,99",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "Oferta8",
+            "product_id": "5690279791c2d39c5604f503",
+            "value": "3,99",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        }
+    ],
     "unidentified_leaflet_items_ids": [
-        "Oferta0",
         "Oferta1",
         "Oferta2",
         "Oferta3",
-        "Oferta4",
         "Oferta5",
         "Oferta6",
-        "Oferta7",
-        "Oferta8",
-        "Oferta9",
-        "Oferta10",
-        "Oferta11",
-        "Oferta12",
-        "Oferta13",
-        "Oferta14",
-        "Oferta15",
-        "Oferta16",
-        "Oferta17",
-        "Oferta18",
-        "Oferta19",
-        "Oferta20",
-        "Oferta21",
-        "Oferta22"
+        "Oferta7"
     ]
 }

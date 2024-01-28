@@ -2,19 +2,19 @@
     {
         "operationType": "create",
         "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
+            "leafletId": "oi",
             "page": "page1",
-            "x1": 34.16576385498047,
-            "y1": 292.1947021484375,
-            "x2": 211.189208984375,
-            "y2": 515.6092529296875,
+            "x1": 260.10052490234375,
+            "y1": 399.09765625,
+            "x2": 495.88543701171875,
+            "y2": 641.7621459960938,
             "PageCropItems": [
                 {
                     "itemId": "Oferta0",
                     "itemCrops": [],
                     "pageCropItemPrices": [
                         {
-                            "value": "12,99",
+                            "value": "2,99",
                             "dynamic": "OFERTA_DE_POR",
                             "minimumQuantity": 1,
                             "mse": 1
@@ -27,47 +27,47 @@
             "ocrJson": {
                 "textAnnotations": [
                     {
-                        "description": "Fitb dFrango Congelado lkyna Bandeja 1Kg",
+                        "description": "ABOBRINHA",
                         "boundingPoly": {
                             "vertices": [
                                 {
-                                    "x": 54,
-                                    "y": 425
+                                    "x": 298,
+                                    "y": 400
                                 },
                                 {
-                                    "x": 54,
-                                    "y": 449
+                                    "x": 298,
+                                    "y": 434
                                 },
                                 {
-                                    "x": 195,
-                                    "y": 425
+                                    "x": 437,
+                                    "y": 400
                                 },
                                 {
-                                    "x": 195,
-                                    "y": 449
+                                    "x": 437,
+                                    "y": 434
                                 }
                             ]
                         }
                     },
                     {
-                        "description": "12,99",
+                        "description": "2,99",
                         "boundingPoly": {
                             "vertices": [
                                 {
-                                    "x": 58,
-                                    "y": 451
+                                    "x": 363,
+                                    "y": 576
                                 },
                                 {
-                                    "x": 58,
-                                    "y": 509
+                                    "x": 363,
+                                    "y": 622
                                 },
                                 {
-                                    "x": 190,
-                                    "y": 451
+                                    "x": 462,
+                                    "y": 576
                                 },
                                 {
-                                    "x": 190,
-                                    "y": 509
+                                    "x": 462,
+                                    "y": 622
                                 }
                             ]
                         }
@@ -79,19 +79,19 @@
     {
         "operationType": "create",
         "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
+            "leafletId": "oi",
             "page": "page1",
-            "x1": 410.0539855957031,
-            "y1": 299.52471923828125,
-            "x2": 606.1358032226562,
-            "y2": 513.3936157226562,
+            "x1": 270.25506591796875,
+            "y1": 870.2769165039062,
+            "x2": 494.595458984375,
+            "y2": 1103.97900390625,
             "PageCropItems": [
                 {
                     "itemId": "Oferta1",
                     "itemCrops": [],
                     "pageCropItemPrices": [
                         {
-                            "value": "11,99",
+                            "value": "1,29",
                             "dynamic": "OFERTA_DE_POR",
                             "minimumQuantity": 1,
                             "mse": 1
@@ -104,47 +104,47 @@
             "ocrJson": {
                 "textAnnotations": [
                     {
-                        "description": "ngelado Kg Figado Bovino",
+                        "description": "BATATAINGLESA",
                         "boundingPoly": {
                             "vertices": [
                                 {
-                                    "x": 470,
-                                    "y": 424
+                                    "x": 271,
+                                    "y": 870
                                 },
                                 {
-                                    "x": 470,
-                                    "y": 450
+                                    "x": 271,
+                                    "y": 898
                                 },
                                 {
-                                    "x": 548,
-                                    "y": 424
+                                    "x": 465,
+                                    "y": 870
                                 },
                                 {
-                                    "x": 548,
-                                    "y": 450
+                                    "x": 465,
+                                    "y": 898
                                 }
                             ]
                         }
                     },
                     {
-                        "description": "11,99",
+                        "description": "1,29",
                         "boundingPoly": {
                             "vertices": [
                                 {
-                                    "x": 445,
-                                    "y": 452
+                                    "x": 364,
+                                    "y": 1040
                                 },
                                 {
-                                    "x": 445,
-                                    "y": 509
+                                    "x": 364,
+                                    "y": 1086
                                 },
                                 {
-                                    "x": 570,
-                                    "y": 452
+                                    "x": 463,
+                                    "y": 1040
                                 },
                                 {
-                                    "x": 570,
-                                    "y": 509
+                                    "x": 463,
+                                    "y": 1086
                                 }
                             ]
                         }
@@ -156,19 +156,19 @@
     {
         "operationType": "create",
         "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
+            "leafletId": "oi",
             "page": "page1",
-            "x1": 212.82679748535156,
-            "y1": 289.43115234375,
-            "x2": 404.9830322265625,
-            "y2": 511.31903076171875,
+            "x1": 504.1311340332031,
+            "y1": 393.37408447265625,
+            "x2": 696.5275268554688,
+            "y2": 630.3240966796875,
             "PageCropItems": [
                 {
                     "itemId": "Oferta2",
                     "itemCrops": [],
                     "pageCropItemPrices": [
                         {
-                            "value": "14,99",
+                            "value": "4,99",
                             "dynamic": "OFERTA_DE_POR",
                             "minimumQuantity": 1,
                             "mse": 1
@@ -181,47 +181,24 @@
             "ocrJson": {
                 "textAnnotations": [
                     {
-                        "description": "Salsicha Hot Dog Perdiaao Ka",
+                        "description": "4,99",
                         "boundingPoly": {
                             "vertices": [
                                 {
-                                    "x": 264,
-                                    "y": 424
+                                    "x": 587,
+                                    "y": 576
                                 },
                                 {
-                                    "x": 264,
-                                    "y": 450
+                                    "x": 587,
+                                    "y": 622
                                 },
                                 {
-                                    "x": 355,
-                                    "y": 424
+                                    "x": 691,
+                                    "y": 576
                                 },
                                 {
-                                    "x": 355,
-                                    "y": 450
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "14,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 240,
-                                    "y": 452
-                                },
-                                {
-                                    "x": 240,
-                                    "y": 509
-                                },
-                                {
-                                    "x": 378,
-                                    "y": 452
-                                },
-                                {
-                                    "x": 378,
-                                    "y": 509
+                                    "x": 691,
+                                    "y": 622
                                 }
                             ]
                         }
@@ -233,12 +210,12 @@
     {
         "operationType": "create",
         "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
+            "leafletId": "oi",
             "page": "page1",
-            "x1": 32.924049377441406,
-            "y1": 899.0843505859375,
-            "x2": 170.24685668945312,
-            "y2": 1038.9605712890625,
+            "x1": 505.5472412109375,
+            "y1": 854.5377197265625,
+            "x2": 703.5057983398438,
+            "y2": 1104.1177978515625,
             "PageCropItems": [
                 {
                     "itemId": "Oferta3",
@@ -258,47 +235,24 @@
             "ocrJson": {
                 "textAnnotations": [
                     {
-                        "description": "en",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 41,
-                                    "y": 995
-                                },
-                                {
-                                    "x": 41,
-                                    "y": 1026
-                                },
-                                {
-                                    "x": 82,
-                                    "y": 995
-                                },
-                                {
-                                    "x": 82,
-                                    "y": 1026
-                                }
-                            ]
-                        }
-                    },
-                    {
                         "description": "0,79",
                         "boundingPoly": {
                             "vertices": [
                                 {
-                                    "x": 100,
-                                    "y": 995
+                                    "x": 587,
+                                    "y": 1040
                                 },
                                 {
-                                    "x": 100,
-                                    "y": 1031
+                                    "x": 587,
+                                    "y": 1087
                                 },
                                 {
-                                    "x": 166,
-                                    "y": 995
+                                    "x": 689,
+                                    "y": 1040
                                 },
                                 {
-                                    "x": 166,
-                                    "y": 1031
+                                    "x": 689,
+                                    "y": 1087
                                 }
                             ]
                         }
@@ -310,19 +264,19 @@
     {
         "operationType": "create",
         "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
+            "leafletId": "oi",
             "page": "page1",
-            "x1": 33.00069808959961,
-            "y1": 526.8676147460938,
-            "x2": 175.6674346923828,
-            "y2": 648.289306640625,
+            "x1": 39.30254364013672,
+            "y1": 392.4547424316406,
+            "x2": 252.78773498535156,
+            "y2": 643.1407470703125,
             "PageCropItems": [
                 {
                     "itemId": "Oferta4",
                     "itemCrops": [],
                     "pageCropItemPrices": [
                         {
-                            "value": "15,99",
+                            "value": "3,99",
                             "dynamic": "OFERTA_DE_POR",
                             "minimumQuantity": 1,
                             "mse": 1
@@ -335,47 +289,47 @@
             "ocrJson": {
                 "textAnnotations": [
                     {
-                        "description": "cuss",
+                        "description": "ABACATE",
                         "boundingPoly": {
                             "vertices": [
                                 {
-                                    "x": 41,
-                                    "y": 606
-                                },
-                                {
-                                    "x": 41,
-                                    "y": 631
+                                    "x": 83,
+                                    "y": 402
                                 },
                                 {
                                     "x": 83,
-                                    "y": 606
+                                    "y": 435
                                 },
                                 {
-                                    "x": 83,
-                                    "y": 631
+                                    "x": 199,
+                                    "y": 402
+                                },
+                                {
+                                    "x": 199,
+                                    "y": 435
                                 }
                             ]
                         }
                     },
                     {
-                        "description": "15,99",
+                        "description": "3,99",
                         "boundingPoly": {
                             "vertices": [
                                 {
-                                    "x": 87,
-                                    "y": 606
+                                    "x": 134,
+                                    "y": 576
                                 },
                                 {
-                                    "x": 87,
-                                    "y": 640
+                                    "x": 134,
+                                    "y": 623
                                 },
                                 {
-                                    "x": 169,
-                                    "y": 606
+                                    "x": 237,
+                                    "y": 576
                                 },
                                 {
-                                    "x": 169,
-                                    "y": 640
+                                    "x": 237,
+                                    "y": 623
                                 }
                             ]
                         }
@@ -387,19 +341,19 @@
     {
         "operationType": "create",
         "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
+            "leafletId": "oi",
             "page": "page1",
-            "x1": 322.49163818359375,
-            "y1": 522.7144165039062,
-            "x2": 467.6249084472656,
-            "y2": 650.0346069335938,
+            "x1": 255.9237823486328,
+            "y1": 627.168701171875,
+            "x2": 484.18634033203125,
+            "y2": 873.15234375,
             "PageCropItems": [
                 {
                     "itemId": "Oferta5",
                     "itemCrops": [],
                     "pageCropItemPrices": [
                         {
-                            "value": "19,99",
+                            "value": "5,99",
                             "dynamic": "OFERTA_DE_POR",
                             "minimumQuantity": 1,
                             "mse": 1
@@ -412,47 +366,24 @@
             "ocrJson": {
                 "textAnnotations": [
                     {
-                        "description": "pmorin",
+                        "description": "5,99",
                         "boundingPoly": {
                             "vertices": [
                                 {
-                                    "x": 330,
-                                    "y": 606
+                                    "x": 363,
+                                    "y": 809
                                 },
                                 {
-                                    "x": 330,
-                                    "y": 631
+                                    "x": 363,
+                                    "y": 854
                                 },
                                 {
-                                    "x": 374,
-                                    "y": 606
+                                    "x": 464,
+                                    "y": 809
                                 },
                                 {
-                                    "x": 374,
-                                    "y": 631
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "19,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 377,
-                                    "y": 605
-                                },
-                                {
-                                    "x": 377,
-                                    "y": 638
-                                },
-                                {
-                                    "x": 461,
-                                    "y": 605
-                                },
-                                {
-                                    "x": 461,
-                                    "y": 638
+                                    "x": 464,
+                                    "y": 854
                                 }
                             ]
                         }
@@ -464,17 +395,24 @@
     {
         "operationType": "create",
         "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
+            "leafletId": "oi",
             "page": "page1",
-            "x1": 328.5070495605469,
-            "y1": 900.1375122070312,
-            "x2": 466.2275695800781,
-            "y2": 1035.7783203125,
+            "x1": 42.20497131347656,
+            "y1": 640.7073364257812,
+            "x2": 249.57064819335938,
+            "y2": 869.5310668945312,
             "PageCropItems": [
                 {
                     "itemId": "Oferta6",
                     "itemCrops": [],
-                    "pageCropItemPrices": [],
+                    "pageCropItemPrices": [
+                        {
+                            "value": "0,99",
+                            "dynamic": "OFERTA_DE_POR",
+                            "minimumQuantity": 1,
+                            "mse": 1
+                        }
+                    ],
                     "similarity": 0.7
                 }
             ],
@@ -482,24 +420,47 @@
             "ocrJson": {
                 "textAnnotations": [
                     {
-                        "description": "me mara500",
+                        "description": "ALFACE",
                         "boundingPoly": {
                             "vertices": [
                                 {
-                                    "x": 334,
-                                    "y": 996
+                                    "x": 91,
+                                    "y": 644
                                 },
                                 {
-                                    "x": 334,
-                                    "y": 1020
+                                    "x": 91,
+                                    "y": 664
                                 },
                                 {
-                                    "x": 383,
-                                    "y": 996
+                                    "x": 187,
+                                    "y": 644
                                 },
                                 {
-                                    "x": 383,
-                                    "y": 1020
+                                    "x": 187,
+                                    "y": 664
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "description": "0,99",
+                        "boundingPoly": {
+                            "vertices": [
+                                {
+                                    "x": 134,
+                                    "y": 810
+                                },
+                                {
+                                    "x": 134,
+                                    "y": 853
+                                },
+                                {
+                                    "x": 238,
+                                    "y": 810
+                                },
+                                {
+                                    "x": 238,
+                                    "y": 853
                                 }
                             ]
                         }
@@ -511,25 +472,19 @@
     {
         "operationType": "create",
         "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
+            "leafletId": "oi",
             "page": "page1",
-            "x1": 608.0407104492188,
-            "y1": 308.99755859375,
-            "x2": 807.3323364257812,
-            "y2": 510.6845703125,
+            "x1": 487.472412109375,
+            "y1": 618.8971557617188,
+            "x2": 703.6284790039062,
+            "y2": 867.6912841796875,
             "PageCropItems": [
                 {
                     "itemId": "Oferta7",
                     "itemCrops": [],
                     "pageCropItemPrices": [
                         {
-                            "value": "29,99",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        },
-                        {
-                            "value": "29,99",
+                            "value": "3,99",
                             "dynamic": "OFERTA_DE_POR",
                             "minimumQuantity": 1,
                             "mse": 1
@@ -542,70 +497,24 @@
             "ocrJson": {
                 "textAnnotations": [
                     {
-                        "description": "garto Bovino Kg eca ou Pedaco",
+                        "description": "3,99",
                         "boundingPoly": {
                             "vertices": [
                                 {
-                                    "x": 655,
-                                    "y": 424
+                                    "x": 588,
+                                    "y": 807
                                 },
                                 {
-                                    "x": 655,
-                                    "y": 449
+                                    "x": 588,
+                                    "y": 854
                                 },
                                 {
-                                    "x": 753,
-                                    "y": 424
+                                    "x": 689,
+                                    "y": 807
                                 },
                                 {
-                                    "x": 753,
-                                    "y": 449
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "29,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 635,
-                                    "y": 451
-                                },
-                                {
-                                    "x": 635,
-                                    "y": 509
-                                },
-                                {
-                                    "x": 777,
-                                    "y": 451
-                                },
-                                {
-                                    "x": 777,
-                                    "y": 509
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "29,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 634,
-                                    "y": 451
-                                },
-                                {
-                                    "x": 634,
-                                    "y": 491
-                                },
-                                {
-                                    "x": 777,
-                                    "y": 451
-                                },
-                                {
-                                    "x": 777,
-                                    "y": 491
+                                    "x": 689,
+                                    "y": 854
                                 }
                             ]
                         }
@@ -617,19 +526,19 @@
     {
         "operationType": "create",
         "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
+            "leafletId": "oi",
             "page": "page1",
-            "x1": 625.1575317382812,
-            "y1": 648.7134399414062,
-            "x2": 822.569091796875,
-            "y2": 799.2920532226562,
+            "x1": 35.51959228515625,
+            "y1": 874.6510620117188,
+            "x2": 262.2845153808594,
+            "y2": 1107.501708984375,
             "PageCropItems": [
                 {
                     "itemId": "Oferta8",
                     "itemCrops": [],
                     "pageCropItemPrices": [
                         {
-                            "value": "32,99",
+                            "value": "3,99",
                             "dynamic": "OFERTA_DE_POR",
                             "minimumQuantity": 1,
                             "mse": 1
@@ -642,1183 +551,47 @@
             "ocrJson": {
                 "textAnnotations": [
                     {
-                        "description": "Fraldinho Bovina",
+                        "description": "BANANA PRATA",
                         "boundingPoly": {
                             "vertices": [
                                 {
-                                    "x": 631,
-                                    "y": 746
+                                    "x": 49,
+                                    "y": 874
                                 },
                                 {
-                                    "x": 631,
-                                    "y": 786
-                                },
-                                {
-                                    "x": 677,
-                                    "y": 746
-                                },
-                                {
-                                    "x": 677,
-                                    "y": 786
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "32,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 704,
-                                    "y": 745
-                                },
-                                {
-                                    "x": 704,
-                                    "y": 793
-                                },
-                                {
-                                    "x": 815,
-                                    "y": 745
-                                },
-                                {
-                                    "x": 815,
-                                    "y": 793
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "operationType": "create",
-        "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
-            "page": "page1",
-            "x1": 175.4374542236328,
-            "y1": 905.6107788085938,
-            "x2": 322.19403076171875,
-            "y2": 1035.6937255859375,
-            "PageCropItems": [
-                {
-                    "itemId": "Oferta9",
-                    "itemCrops": [],
-                    "pageCropItemPrices": [
-                        {
-                            "value": "4,99",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        }
-                    ],
-                    "similarity": 0.7
-                }
-            ],
-            "aiValidated": true,
-            "ocrJson": {
-                "textAnnotations": [
-                    {
-                        "description": "suooioi",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 186,
-                                    "y": 995
-                                },
-                                {
-                                    "x": 186,
-                                    "y": 1020
-                                },
-                                {
-                                    "x": 241,
-                                    "y": 995
-                                },
-                                {
-                                    "x": 241,
-                                    "y": 1020
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "4,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 245,
-                                    "y": 995
-                                },
-                                {
-                                    "x": 245,
-                                    "y": 1030
-                                },
-                                {
-                                    "x": 313,
-                                    "y": 995
-                                },
-                                {
-                                    "x": 313,
-                                    "y": 1030
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "operationType": "create",
-        "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
-            "page": "page1",
-            "x1": 473.32159423828125,
-            "y1": 901.3663940429688,
-            "x2": 614.17822265625,
-            "y2": 1036.9901123046875,
-            "PageCropItems": [
-                {
-                    "itemId": "Oferta10",
-                    "itemCrops": [],
-                    "pageCropItemPrices": [
-                        {
-                            "value": "8,99",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        }
-                    ],
-                    "similarity": 0.7
-                }
-            ],
-            "aiValidated": true,
-            "ocrJson": {
-                "textAnnotations": [
-                    {
-                        "description": "ess",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 481,
-                                    "y": 996
-                                },
-                                {
-                                    "x": 481,
-                                    "y": 1026
-                                },
-                                {
-                                    "x": 527,
-                                    "y": 996
-                                },
-                                {
-                                    "x": 527,
-                                    "y": 1026
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "8,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 540,
-                                    "y": 995
-                                },
-                                {
-                                    "x": 540,
-                                    "y": 1030
-                                },
-                                {
-                                    "x": 606,
-                                    "y": 995
-                                },
-                                {
-                                    "x": 606,
-                                    "y": 1030
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "operationType": "create",
-        "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
-            "page": "page1",
-            "x1": 174.9669647216797,
-            "y1": 523.580078125,
-            "x2": 319.22344970703125,
-            "y2": 648.1011962890625,
-            "PageCropItems": [
-                {
-                    "itemId": "Oferta11",
-                    "itemCrops": [],
-                    "pageCropItemPrices": [
-                        {
-                            "value": "19,99",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        }
-                    ],
-                    "similarity": 0.7
-                }
-            ],
-            "aiValidated": true,
-            "ocrJson": {
-                "textAnnotations": [
-                    {
-                        "description": "soiloes",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 183,
-                                    "y": 606
-                                },
-                                {
-                                    "x": 183,
-                                    "y": 631
-                                },
-                                {
-                                    "x": 221,
-                                    "y": 606
-                                },
-                                {
-                                    "x": 221,
-                                    "y": 631
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "19,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 226,
-                                    "y": 605
-                                },
-                                {
-                                    "x": 226,
-                                    "y": 637
-                                },
-                                {
-                                    "x": 312,
-                                    "y": 605
-                                },
-                                {
-                                    "x": 312,
-                                    "y": 637
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "operationType": "create",
-        "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
-            "page": "page1",
-            "x1": 625.4412841796875,
-            "y1": 918.640380859375,
-            "x2": 824.3218383789062,
-            "y2": 1042.704833984375,
-            "PageCropItems": [
-                {
-                    "itemId": "Oferta12",
-                    "itemCrops": [],
-                    "pageCropItemPrices": [
-                        {
-                            "value": "4,19",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        },
-                        {
-                            "value": "3,89",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        }
-                    ],
-                    "similarity": 0.7
-                }
-            ],
-            "aiValidated": true,
-            "ocrJson": {
-                "textAnnotations": [
-                    {
-                        "description": "cnse",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 746,
-                                    "y": 932
-                                },
-                                {
-                                    "x": 746,
-                                    "y": 957
-                                },
-                                {
-                                    "x": 796,
-                                    "y": 932
-                                },
-                                {
-                                    "x": 796,
-                                    "y": 957
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "4,19",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 745,
-                                    "y": 958
-                                },
-                                {
-                                    "x": 745,
-                                    "y": 986
-                                },
-                                {
-                                    "x": 795,
-                                    "y": 958
-                                },
-                                {
-                                    "x": 795,
-                                    "y": 986
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "3,89",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 746,
-                                    "y": 985
-                                },
-                                {
-                                    "x": 746,
-                                    "y": 1025
-                                },
-                                {
-                                    "x": 816,
-                                    "y": 985
-                                },
-                                {
-                                    "x": 816,
-                                    "y": 1025
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "operationType": "create",
-        "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
-            "page": "page1",
-            "x1": 324.3065490722656,
-            "y1": 652.2564086914062,
-            "x2": 465.66436767578125,
-            "y2": 779.2564086914062,
-            "PageCropItems": [
-                {
-                    "itemId": "Oferta13",
-                    "itemCrops": [],
-                    "pageCropItemPrices": [
-                        {
-                            "value": "34,99",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        }
-                    ],
-                    "similarity": 0.7
-                }
-            ],
-            "aiValidated": true,
-            "ocrJson": {
-                "textAnnotations": [
-                    {
-                        "description": "ssi",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 332,
-                                    "y": 733
-                                },
-                                {
-                                    "x": 332,
-                                    "y": 764
-                                },
-                                {
-                                    "x": 369,
-                                    "y": 733
-                                },
-                                {
-                                    "x": 369,
-                                    "y": 764
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "34,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 369,
-                                    "y": 731
-                                },
-                                {
-                                    "x": 369,
-                                    "y": 768
-                                },
-                                {
-                                    "x": 459,
-                                    "y": 731
-                                },
-                                {
-                                    "x": 459,
-                                    "y": 768
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "operationType": "create",
-        "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
-            "page": "page1",
-            "x1": 180.1848907470703,
-            "y1": 779.9169921875,
-            "x2": 327.5061340332031,
-            "y2": 906.4515380859375,
-            "PageCropItems": [
-                {
-                    "itemId": "Oferta14",
-                    "itemCrops": [],
-                    "pageCropItemPrices": [
-                        {
-                            "value": "39,99",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        }
-                    ],
-                    "similarity": 0.7
-                }
-            ],
-            "aiValidated": true,
-            "ocrJson": {
-                "textAnnotations": [
-                    {
-                        "description": "",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 190,
-                                    "y": 863
-                                },
-                                {
-                                    "x": 190,
-                                    "y": 894
-                                },
-                                {
-                                    "x": 226,
-                                    "y": 863
-                                },
-                                {
-                                    "x": 226,
-                                    "y": 894
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "39,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 231,
-                                    "y": 862
-                                },
-                                {
-                                    "x": 231,
+                                    "x": 49,
                                     "y": 895
                                 },
                                 {
-                                    "x": 320,
-                                    "y": 862
+                                    "x": 233,
+                                    "y": 874
                                 },
                                 {
-                                    "x": 320,
+                                    "x": 233,
                                     "y": 895
                                 }
                             ]
                         }
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "operationType": "create",
-        "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
-            "page": "page1",
-            "x1": 33.631324768066406,
-            "y1": 782.3479614257812,
-            "x2": 179.48904418945312,
-            "y2": 904.6458129882812,
-            "PageCropItems": [
-                {
-                    "itemId": "Oferta15",
-                    "itemCrops": [],
-                    "pageCropItemPrices": [
-                        {
-                            "value": "35,99",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        }
-                    ],
-                    "similarity": 0.7
-                }
-            ],
-            "aiValidated": true,
-            "ocrJson": {
-                "textAnnotations": [
-                    {
-                        "description": "e",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 41,
-                                    "y": 863
-                                },
-                                {
-                                    "x": 41,
-                                    "y": 894
-                                },
-                                {
-                                    "x": 82,
-                                    "y": 863
-                                },
-                                {
-                                    "x": 82,
-                                    "y": 894
-                                }
-                            ]
-                        }
                     },
                     {
-                        "description": "35,99",
+                        "description": "3,99",
                         "boundingPoly": {
                             "vertices": [
                                 {
-                                    "x": 84,
-                                    "y": 862
+                                    "x": 135,
+                                    "y": 1040
                                 },
                                 {
-                                    "x": 84,
-                                    "y": 897
+                                    "x": 135,
+                                    "y": 1086
                                 },
                                 {
-                                    "x": 172,
-                                    "y": 862
+                                    "x": 236,
+                                    "y": 1040
                                 },
                                 {
-                                    "x": 172,
-                                    "y": 897
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "operationType": "create",
-        "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
-            "page": "page1",
-            "x1": 31.102951049804688,
-            "y1": 652.2969970703125,
-            "x2": 177.065673828125,
-            "y2": 779.3129272460938,
-            "PageCropItems": [
-                {
-                    "itemId": "Oferta16",
-                    "itemCrops": [],
-                    "pageCropItemPrices": [
-                        {
-                            "value": "24,99",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        }
-                    ],
-                    "similarity": 0.7
-                }
-            ],
-            "aiValidated": true,
-            "ocrJson": {
-                "textAnnotations": [
-                    {
-                        "description": "ee",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 40,
-                                    "y": 733
-                                },
-                                {
-                                    "x": 40,
-                                    "y": 764
-                                },
-                                {
-                                    "x": 69,
-                                    "y": 733
-                                },
-                                {
-                                    "x": 69,
-                                    "y": 764
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "24,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 84,
-                                    "y": 732
-                                },
-                                {
-                                    "x": 84,
-                                    "y": 767
-                                },
-                                {
-                                    "x": 172,
-                                    "y": 732
-                                },
-                                {
-                                    "x": 172,
-                                    "y": 767
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "operationType": "create",
-        "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
-            "page": "page1",
-            "x1": 469.17352294921875,
-            "y1": 522.1292114257812,
-            "x2": 613.6762084960938,
-            "y2": 652.5286865234375,
-            "PageCropItems": [
-                {
-                    "itemId": "Oferta17",
-                    "itemCrops": [],
-                    "pageCropItemPrices": [
-                        {
-                            "value": "20,99",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        }
-                    ],
-                    "similarity": 0.7
-                }
-            ],
-            "aiValidated": true,
-            "ocrJson": {
-                "textAnnotations": [
-                    {
-                        "description": "rein",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 480,
-                                    "y": 606
-                                },
-                                {
-                                    "x": 480,
-                                    "y": 638
-                                },
-                                {
-                                    "x": 513,
-                                    "y": 606
-                                },
-                                {
-                                    "x": 513,
-                                    "y": 638
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "20,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 516,
-                                    "y": 605
-                                },
-                                {
-                                    "x": 516,
-                                    "y": 642
-                                },
-                                {
-                                    "x": 605,
-                                    "y": 605
-                                },
-                                {
-                                    "x": 605,
-                                    "y": 642
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "operationType": "create",
-        "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
-            "page": "page1",
-            "x1": 330.8910827636719,
-            "y1": 774.5997924804688,
-            "x2": 467.682861328125,
-            "y2": 903.1611938476562,
-            "PageCropItems": [
-                {
-                    "itemId": "Oferta18",
-                    "itemCrops": [],
-                    "pageCropItemPrices": [
-                        {
-                            "value": "15,99",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        }
-                    ],
-                    "similarity": 0.7
-                }
-            ],
-            "aiValidated": true,
-            "ocrJson": {
-                "textAnnotations": [
-                    {
-                        "description": "eee",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 336,
-                                    "y": 863
-                                },
-                                {
-                                    "x": 336,
-                                    "y": 894
-                                },
-                                {
-                                    "x": 378,
-                                    "y": 863
-                                },
-                                {
-                                    "x": 378,
-                                    "y": 894
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "15,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 380,
-                                    "y": 862
-                                },
-                                {
-                                    "x": 380,
-                                    "y": 898
-                                },
-                                {
-                                    "x": 462,
-                                    "y": 862
-                                },
-                                {
-                                    "x": 462,
-                                    "y": 898
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "operationType": "create",
-        "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
-            "page": "page1",
-            "x1": 175.7211456298828,
-            "y1": 651.2443237304688,
-            "x2": 320.65875244140625,
-            "y2": 776.9722900390625,
-            "PageCropItems": [
-                {
-                    "itemId": "Oferta19",
-                    "itemCrops": [],
-                    "pageCropItemPrices": [
-                        {
-                            "value": "28,99",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        }
-                    ],
-                    "similarity": 0.7
-                }
-            ],
-            "aiValidated": true,
-            "ocrJson": {
-                "textAnnotations": [
-                    {
-                        "description": "ctieions",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 187,
-                                    "y": 732
-                                },
-                                {
-                                    "x": 187,
-                                    "y": 757
-                                },
-                                {
-                                    "x": 223,
-                                    "y": 732
-                                },
-                                {
-                                    "x": 223,
-                                    "y": 757
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "28,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 226,
-                                    "y": 731
-                                },
-                                {
-                                    "x": 226,
-                                    "y": 769
-                                },
-                                {
-                                    "x": 313,
-                                    "y": 731
-                                },
-                                {
-                                    "x": 313,
-                                    "y": 769
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "operationType": "create",
-        "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
-            "page": "page1",
-            "x1": 624.3961181640625,
-            "y1": 801.7999267578125,
-            "x2": 820.6408081054688,
-            "y2": 917.103271484375,
-            "PageCropItems": [
-                {
-                    "itemId": "Oferta20",
-                    "itemCrops": [],
-                    "pageCropItemPrices": [
-                        {
-                            "value": "2,89",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        },
-                        {
-                            "value": "6,19",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        }
-                    ],
-                    "similarity": 0.7
-                }
-            ],
-            "aiValidated": true,
-            "ocrJson": {
-                "textAnnotations": [
-                    {
-                        "description": "ric",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 746,
-                                    "y": 814
-                                },
-                                {
-                                    "x": 746,
-                                    "y": 839
-                                },
-                                {
-                                    "x": 794,
-                                    "y": 814
-                                },
-                                {
-                                    "x": 794,
-                                    "y": 839
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "2,89",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 746,
-                                    "y": 868
-                                },
-                                {
-                                    "x": 746,
-                                    "y": 908
-                                },
-                                {
-                                    "x": 814,
-                                    "y": 868
-                                },
-                                {
-                                    "x": 814,
-                                    "y": 908
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "6,19",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 745,
-                                    "y": 840
-                                },
-                                {
-                                    "x": 745,
-                                    "y": 869
-                                },
-                                {
-                                    "x": 793,
-                                    "y": 840
-                                },
-                                {
-                                    "x": 793,
-                                    "y": 869
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "operationType": "create",
-        "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
-            "page": "page1",
-            "x1": 471.2577209472656,
-            "y1": 776.0067138671875,
-            "x2": 613.123046875,
-            "y2": 906.8197631835938,
-            "PageCropItems": [
-                {
-                    "itemId": "Oferta21",
-                    "itemCrops": [],
-                    "pageCropItemPrices": [
-                        {
-                            "value": "16,99",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        }
-                    ],
-                    "similarity": 0.7
-                }
-            ],
-            "aiValidated": true,
-            "ocrJson": {
-                "textAnnotations": [
-                    {
-                        "description": "e Frang",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 479,
-                                    "y": 863
-                                },
-                                {
-                                    "x": 479,
-                                    "y": 888
-                                },
-                                {
-                                    "x": 516,
-                                    "y": 863
-                                },
-                                {
-                                    "x": 516,
-                                    "y": 888
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "16,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 524,
-                                    "y": 862
-                                },
-                                {
-                                    "x": 524,
-                                    "y": 899
-                                },
-                                {
-                                    "x": 606,
-                                    "y": 862
-                                },
-                                {
-                                    "x": 606,
-                                    "y": 899
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "operationType": "create",
-        "pageCrop": {
-            "leafletId": "6e302fa38b95a2369",
-            "page": "page1",
-            "x1": 468.85015869140625,
-            "y1": 652.7798461914062,
-            "x2": 614.0997314453125,
-            "y2": 777.4338989257812,
-            "PageCropItems": [
-                {
-                    "itemId": "Oferta22",
-                    "itemCrops": [],
-                    "pageCropItemPrices": [
-                        {
-                            "value": "34,99",
-                            "dynamic": "OFERTA_DE_POR",
-                            "minimumQuantity": 1,
-                            "mse": 1
-                        }
-                    ],
-                    "similarity": 0.7
-                }
-            ],
-            "aiValidated": true,
-            "ocrJson": {
-                "textAnnotations": [
-                    {
-                        "description": "pylsm",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 476,
-                                    "y": 732
-                                },
-                                {
-                                    "x": 476,
-                                    "y": 757
-                                },
-                                {
-                                    "x": 511,
-                                    "y": 732
-                                },
-                                {
-                                    "x": 511,
-                                    "y": 757
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "description": "34,99",
-                        "boundingPoly": {
-                            "vertices": [
-                                {
-                                    "x": 516,
-                                    "y": 731
-                                },
-                                {
-                                    "x": 516,
-                                    "y": 768
-                                },
-                                {
-                                    "x": 606,
-                                    "y": 731
-                                },
-                                {
-                                    "x": 606,
-                                    "y": 768
+                                    "x": 236,
+                                    "y": 1086
                                 }
                             ]
                         }

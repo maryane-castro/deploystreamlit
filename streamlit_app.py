@@ -71,7 +71,7 @@ if uploaded_image is not None:
         for annotation in ocr_data:
             description = annotation.get('description')
             if description:
-                st.write(f"Produto Detectado: {description}")
+                st.write(f"OCR: {description}")
 
 
     st.text('RESULTADO FINAL NLP')
